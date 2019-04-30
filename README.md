@@ -3,3 +3,6 @@ ASP.NET SignalR依赖JQ，故小程序不能直接使用。但是在ASP.NET Core
 # 修改处说明
 位置：DefaultHttpClient/DefaultHttpClient.prototype.send
 具体修改如图：
+![](/img/webSocket小程序化.png)
+![](/img/xmlRequest方式改变.png)
+![](/img/固定通讯方式为webSocket.png)
